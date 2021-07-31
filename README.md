@@ -1,0 +1,2 @@
+# lg10
+lghomework
