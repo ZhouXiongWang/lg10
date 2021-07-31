@@ -1,2 +1,2 @@
 # lg10
-lghomework
+lg 10 homework
